@@ -1,0 +1,215 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "genre": ["Sci-Fi", "Action", "Thriller"],
+      "year": 2010,
+      "director": "Christopher Nolan",
+      "rating": 8.8,
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "poster": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "2",
+      "title": "Interstellar",
+      "genre": ["Sci-Fi", "Drama", "Adventure"],
+      "year": 2014,
+      "director": "Christopher Nolan",
+      "rating": 8.7,
+      "description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+      "poster": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "3",
+      "title": "The Dark Knight",
+      "genre": ["Action", "Crime", "Drama"],
+      "year": 2008,
+      "director": "Christopher Nolan",
+      "rating": 9.0,
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "poster": "https://images.unsplash.com/photo-1478720334517-db3c6ed4ecca?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "4",
+      "title": "Pulp Fiction",
+      "genre": ["Crime", "Drama"],
+      "year": 1994,
+      "director": "Quentin Tarantino",
+      "rating": 8.9,
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "poster": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "5",
+      "title": "Parasite",
+      "genre": ["Drama", "Thriller", "Comedy"],
+      "year": 2019,
+      "director": "Bong Joon Ho",
+      "rating": 8.5,
+      "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+      "poster": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "6",
+      "title": "The Matrix",
+      "genre": ["Sci-Fi", "Action"],
+      "year": 1999,
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "rating": 8.7,
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "poster": "https://images.unsplash.com/photo-1626814026160-2237a95fc5a0?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "7",
+      "title": "Spirited Away",
+      "genre": ["Animation", "Adventure", "Family"],
+      "year": 2001,
+      "director": "Hayao Miyazaki",
+      "rating": 8.6,
+      "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+      "poster": "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "8",
+      "title": "The Grand Budapest Hotel",
+      "genre": ["Comedy", "Adventure", "Crime"],
+      "year": 2014,
+      "director": "Wes Anderson",
+      "rating": 8.1,
+      "description": "A writer encounters the owner of a decaying high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+      "poster": "https://images.unsplash.com/photo-1544256718-3bcf237f3974?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "9",
+      "title": "Whiplash",
+      "genre": ["Drama", "Thriller"],
+      "year": 2014,
+      "director": "Damien Chazelle",
+      "rating": 8.5,
+      "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+      "poster": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "10",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "genre": ["Animation", "Action", "Adventure"],
+      "year": 2018,
+      "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+      "rating": 8.4,
+      "description": "Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+      "poster": "https://images.unsplash.com/photo-1635805737707-575885ab0820?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "11",
+      "title": "Se7en",
+      "genre": ["Crime", "Thriller", "Drama"],
+      "year": 1995,
+      "director": "David Fincher",
+      "rating": 8.6,
+      "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+      "poster": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "12",
+      "title": "The Fellowship of the Ring",
+      "genre": ["Adventure", "Action", "Drama"],
+      "year": 2001,
+      "director": "Peter Jackson",
+      "rating": 8.8,
+      "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "poster": "https://images.unsplash.com/photo-1461360370896-922624d12aa1?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "13",
+      "title": "Knives Out",
+      "genre": ["Comedy", "Crime", "Thriller"],
+      "year": 2019,
+      "director": "Rian Johnson",
+      "rating": 7.9,
+      "description": "A detective investigates the death of the patriarch of an eccentric, combative family.",
+      "poster": "https://images.unsplash.com/photo-1585647347483-22b66260dfff?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "14",
+      "title": "Gladiator",
+      "genre": ["Action", "Adventure", "Drama"],
+      "year": 2000,
+      "director": "Ridley Scott",
+      "rating": 8.5,
+      "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "poster": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "15",
+      "title": "The Prestige",
+      "genre": ["Drama", "Thriller", "Sci-Fi"],
+      "year": 2006,
+      "director": "Christopher Nolan",
+      "rating": 8.5,
+      "description": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+      "poster": "https://images.unsplash.com/photo-1505686994434-e3cc5abf1330?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "16",
+      "title": "Your Name.",
+      "genre": ["Animation", "Drama", "Family"],
+      "year": 2016,
+      "director": "Makoto Shinkai",
+      "rating": 8.4,
+      "description": "Two strangers find themselves linked in a bizarre way. When a connection is formed, will distance be the only thing to keep them apart?",
+      "poster": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "17",
+      "title": "Dune: Part Two",
+      "genre": ["Sci-Fi", "Action", "Adventure"],
+      "year": 2024,
+      "director": "Denis Villeneuve",
+      "rating": 8.6,
+      "description": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+      "poster": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "18",
+      "title": "The Truman Show",
+      "genre": ["Comedy", "Drama"],
+      "year": 1998,
+      "director": "Peter Weir",
+      "rating": 8.2,
+      "description": "An insurance salesman discovers his whole life is actually a reality TV show.",
+      "poster": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "19",
+      "title": "Jurassic Park",
+      "genre": ["Adventure", "Sci-Fi", "Thriller"],
+      "year": 1993,
+      "director": "Steven Spielberg",
+      "rating": 8.2,
+      "description": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+      "poster": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=800&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "20",
+      "title": "Coco",
+      "genre": ["Animation", "Family", "Comedy"],
+      "year": 2017,
+      "director": "Lee Unkrich, Adrian Molina",
+      "rating": 8.4,
+      "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+      "poster": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=800&auto=format&fit=crop&q=60"
+    }
+  ],
+  "ratings": [],
+  "reviews": [
+    {
+      "id": "p7hvwcriy",
+      "movieId": "8",
+      "userId": "user-1",
+      "userName": "Guest User",
+      "comment": "mm",
+      "timestamp": "2026-07-08T07:11:11.456Z"
+    }
+  ]
+}

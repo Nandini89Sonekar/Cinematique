@@ -1,0 +1,6 @@
+{
+  "name": "Cinematique",
+  "description": "An immersive AI-powered movie recommendation system with advanced genre filtering and personalized reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Recommendations", "Advanced Search", "User Ratings"]
+}
